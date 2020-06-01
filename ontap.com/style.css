@@ -1,0 +1,111 @@
+.cart{
+    height: 4em;
+    height: 4em;
+    margin-top: 5px;
+}
+.navbar1{
+  background-color: #7CB342;
+}
+.heading{ 
+    font-size:xxx-large;
+    margin-top: 5px;
+ }
+ .text{
+     font-size: x-large;
+     
+ }
+ .prize{
+   color: darkorange;
+ }
+ .category{
+   font-family: cursive;
+ }
+ .status{
+   font-family:   Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+ }
+ .green{
+   height: 300px;
+ }
+.multi{
+  height:220px;
+}
+.light{ 
+  height: 220px;
+}
+.topbar{
+  background-image: url(images/boutique.jpg);
+}
+
+.pictures{ 
+  height: 500px;
+}
+
+@media only screen (max-width:350px){
+  .d-block{height:200px}
+}
+
+.navbar{
+  background-color:#FFC107 !important;
+  font-weight: bold;
+}
+.goldenball{
+  height: 320px;
+}
+.icon{
+  color:white;
+  font-size: xx-large;
+}
+.footer{
+  background-color:#FFC107  ;
+  color: white;
+  padding: 20px;
+}
+.link{
+  color: #ffffff;
+
+}
+.icons{
+  font-size: x-large;
+  color:white;
+}
+h2,h4{
+  text-decoration: underline;
+}
+.fbicon{
+  color: #0336ff;
+  font-size: xx-large;
+}
+.instaicon{
+  color: #ff0266 ;
+  font-size: xx-large;
+}
+.twittericon{
+  color: #42A5F5;
+  font-size: xx-large;
+}
+.end{
+  background-color: #7CB342;
+  color: white;
+}
+.intro{
+  text-align: center;
+  color: #FFC107;
+}
+.duction{
+  color: #7CB342;
+}
+.about{
+  color: slategray;
+  font-family: serif;
+  font-size: large;
+  margin: 10px 60px 40px 60px;
+}
+.help{
+  border: 1px solid black;
+}
+.us{
+  font-size: small;
+  margin-top: 5px;
+  
+}
